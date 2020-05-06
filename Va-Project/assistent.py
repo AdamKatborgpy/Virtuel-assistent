@@ -67,7 +67,7 @@ def main():
         function8()
 
 
-
+#change to your own directory:)
 class modules():
     
     def dino_game():
